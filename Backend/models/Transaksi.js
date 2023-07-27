@@ -2,7 +2,7 @@ import DataPegawai from './DataPegawaiModel.js';
 import DataJabatan from './DataJabatanModel.js';
 import DataKehadiran from './DataKehadiranModel.js';
 
-/* Method untuk mengambil Data Pegawai */
+/* Method untuk mengambil Data Pegawai */              
 
 async function getDataPegawai() {
     try {
